@@ -4,7 +4,6 @@ var mySplitResult = str.split(commandChar);
 
 var code;
 var string_number;
-
 var matches;
 
 
